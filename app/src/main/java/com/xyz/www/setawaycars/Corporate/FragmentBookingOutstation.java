@@ -25,7 +25,7 @@ public class FragmentBookingOutstation extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
 
-        view = inflater.inflate(R.layout.fragment_booking_outstation,container,false);
+        view = inflater.inflate(R.layout.fragment_booking_outstation_tab1,container,false);
 
 
 
