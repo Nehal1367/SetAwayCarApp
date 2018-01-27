@@ -22,7 +22,8 @@
         <activity android:name=".Corporate.FragmentBookingOneway" />
         <activity android:name=".Corporate.FragmentBookingMulticity" />
         <activity android:name=".Corporate.FragmentLocalTab2" />
-        <activity android:name=".Corporate.FragmentTransferTab3"></activity>
+        <activity android:name=".Corporate.FragmentTransferTab3" />
+        <activity android:name=".Corporate.FragmentSelectCarCorporate"></activity>
     </application>
 
 </manifest>
