@@ -16,8 +16,7 @@ import android.widget.Toast;
 
 import com.xyz.www.setawaycars.Corporate.Adapters.CustomAdapter_MenuList;
 import com.xyz.www.setawaycars.Corporate.Adapters.SubmenuArray;
-import com.xyz.www.setawaycars.Corporate.FragmentBookingOutstation;
-import com.xyz.www.setawaycars.Corporate.FragmentHomeTabs;
+
 import com.xyz.www.setawaycars.R;
 
 import java.util.ArrayList;
